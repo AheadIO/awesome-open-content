@@ -6,7 +6,10 @@ Created on a Friday with a keyboard.
 
 Any contribution is welcome!
 
+**Explanation**
 
+[English](README.md) |
+ 
 ## OTIO
 * [OTIO OC](https://github.com/darbyjohnston/otio-oc-examples) - OpenTimelineIO Open Content Examples
 
@@ -25,5 +28,9 @@ Any contribution is welcome!
 
 ## Volumetric
 * [EmberGen VDB](https://jangafx.com/software/embergen/download/free-vdb-animations/) - Free VDB Volumes Created With EmberGen
+
+## Other Awesome Lists:
+* [ASWF Asset Repository working group](https://wiki.aswf.io/display/ARW/Links+to+Open+Assets) - A list of assets and notes about their relevance to the ASWF Asset Repository working group.
+
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
